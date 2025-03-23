@@ -1,0 +1,25 @@
+{
+  "name": "sales_admin_panel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vilohith10/sales_admin_panel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vilohith10/sales_admin_panel/issues"
+  },
+  "homepage": "https://github.com/Vilohith10/sales_admin_panel#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "pg": "^8.14.1",
+    "sequelize": "^6.37.6"
+  }
+}
